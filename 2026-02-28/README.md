@@ -4,10 +4,20 @@ Using this information, you quickly retrieve a packet capture (pcap) of the traf
 
 The characteristics of your environment are:
 
-LAN segment range: 10.2.28[.]0/24 (10.2.28[.]0 through 10.2.28[.]255) Domain: easyas123[.]tech AD environment name: EASYAS123 Active Directory (AD) domain controller: 10.2.28[.]2 - EASYAS123-DC LAN segment gateway: 10.2.28[.]1 LAN segment broadcast address: 10.2.28[.]255 Armed with pcap, you intend to find that infected host.
+LAN segment range: 10.2.28[.]0/24 (10.2.28[.]0 through 10.2.28[.]255) 
+Domain: easyas123[.]tech 
+AD environment name: EASYAS123 
+Active Directory (AD) domain controller: 10.2.28[.]2 - EASYAS123-DC 
+LAN segment gateway: 10.2.28[.]1 
+LAN segment broadcast address: 10.2.28[.]255 
+Armed with pcap, you intend to find that infected host.
 
 YOUR TASK For this exercise, answer the following questions for your incident report:
 
-What is the IP address of the infected Windows client? What is the MAC address of the infected Windows client? What is the host name of the infected Windows client? What is the user account name from the infected Windows client? What is the full name of the user from the user account?
+1. What is the IP address of the infected Windows client? 
+2. What is the MAC address of the infected Windows client? 
+3. What is the host name of the infected Windows client? 
+4. What is the user account name from the infected Windows client? 
+5. What is the full name of the user from the user account?
 
 Password for PCAP: infected_20260228
