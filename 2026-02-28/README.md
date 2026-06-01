@@ -20,4 +20,6 @@ YOUR TASK For this exercise, answer the following questions for your incident re
 4. What is the user account name from the infected Windows client? 
 5. What is the full name of the user from the user account?
 
+Tool to be used for this Investigation: Wireshark
+
 Password for PCAP: infected_20260228
